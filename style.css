@@ -47,11 +47,13 @@ ul {
   padding: 0px;
 }
 
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
 
-input, button {
+input,
+button {
   outline: none;
 }
 
@@ -65,7 +67,8 @@ input, button {
   cursor: pointer;
 }
 
-.edit:hover, .delete:hover {
+.edit:hover,
+.delete:hover {
   color: #3a3A3a;
 }
 
@@ -109,7 +112,8 @@ input#new-task {
 }
 
 /* Task list */
-.list, .edit-mode {
+.list,
+.edit-mode {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
