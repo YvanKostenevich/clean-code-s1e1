@@ -21,8 +21,9 @@
 }
 
 @media (max-width: 768px) {
-.main-img {
-text-align: center;}
+  .main-img {
+    text-align: center;
+  }
 }
 
 .main-program {
